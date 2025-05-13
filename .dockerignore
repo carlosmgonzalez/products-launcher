@@ -4,13 +4,12 @@ dist/
 build/
 
 # Archivos de desarrollo y configuración
-.git/
-.gitignore
-.gitmodules
-.editorconfig
-.prettierrc
-.eslintrc
-tsconfig.json
+# .git/
+# .gitignore
+# .editorconfig
+# .prettierrc
+# .eslintrc
+# tsconfig.json
 
 # Archivos de pruebas y documentación:
 test/
@@ -22,5 +21,5 @@ tests/
 .env
 
 # Archivos de docker:
-dockerfile
-docker-compose*.yaml
+# dockerfile
+# docker-compose*.yaml
